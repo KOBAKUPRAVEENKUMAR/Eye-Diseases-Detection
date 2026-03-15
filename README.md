@@ -112,6 +112,5 @@ The model’s predictions were evaluated using:
 
 ## 💼 About Me
 
-**praveen kumar**  
-MSc Data Science | AI Researcher | Machine Learning Developer  
+**praveen kumar**    
 🔗 [LinkedIn](https://www.linkedin.com/in/praveenreddy-kobaku-59b46538b/)| 💻 [GitHub](https://github.com/KOBAKUPRAVEENKUMAR)
