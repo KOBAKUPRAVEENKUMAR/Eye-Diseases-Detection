@@ -114,4 +114,4 @@ The model’s predictions were evaluated using:
 
 **Stanley Ekene**  
 MSc Data Science | AI Researcher | Machine Learning Developer  
-🔗 [LinkedIn](https://linkedin.com/in/stanleyekene) | 🌐 [Portfolio](https://london-navigator.netlify.app) | 💻 [GitHub](https://github.com/your-github)
+🔗 [LinkedIn](https://www.linkedin.com/in/praveenreddy-kobaku-59b46538b/)| 💻 [GitHub](https://github.com/KOBAKUPRAVEENKUMAR)
