@@ -112,6 +112,6 @@ The model’s predictions were evaluated using:
 
 ## 💼 About Me
 
-**Stanley Ekene**  
+**praveen kumar**  
 MSc Data Science | AI Researcher | Machine Learning Developer  
 🔗 [LinkedIn](https://www.linkedin.com/in/praveenreddy-kobaku-59b46538b/)| 💻 [GitHub](https://github.com/KOBAKUPRAVEENKUMAR)
